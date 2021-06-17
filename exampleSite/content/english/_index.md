@@ -1,7 +1,7 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "We are a modern consulting firm focused on strategy, technology, and business transformation.<br>"
+  title : "We are a consulting firm focused on strategy, technology, and business transformation.<br>"
   image : "images/banner-art.svg"
   content : "We provide Swiss enterprises and SME's with digital solutions across multiple technologies combined with consulting services."
   button:

@@ -2,7 +2,7 @@
 title: "Adversus is a web-based dialer and practical CRM solution"
 date: 2020-04-18T10:07:21+06:00
 # post image
-image: "images/blog/post-6.jpg"
+image: "images/insights/post-6.jpg"
 # post type (regular/featured)
 type: "regular"
 # meta description
@@ -163,7 +163,7 @@ Markdown | Less | Pretty
 
 ##### Image
 
-![image](../../images/blog/post-6.jpg)
+![image](../../images/insights/post-6.jpg)
 
 <hr>
 
