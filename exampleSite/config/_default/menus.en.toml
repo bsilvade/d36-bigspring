@@ -19,18 +19,23 @@ name = "Technologies & Services"
 url = "technologies"
 weight = 4
 
+[[main]]
+name = "Careers"
+url = "careers"
+weight = 5
+
 # footer menu left
 [[footer_left]]
-name = "Team"
-url = "team"
+name = "About Us"
+url = "about"
 
 [[footer_left]]
-name = "Strategy"
+name = "Our Strategy"
 url = "strategy"
 
 [[footer_left]]
-name = "Careers"
-url = "careers"
+name = "Our Approach"
+url = "approach"
 
 
 # footer menu middle
