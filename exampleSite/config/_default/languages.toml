@@ -5,7 +5,7 @@ title = "D36.ch"
 contentDir = "content/english" # content/english
 weight = 1
 ########### footer content ##########
-footer_menu_left = "About us"
+footer_menu_left = "About Us"
 footer_menu_middle = "Verticals"
 footer_menu_right = "Technologies & Services"
 footer_content = "We provide Swiss enterprises and SME’s with digital solutions across multiple technologies combined with consulting services."

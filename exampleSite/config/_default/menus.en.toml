@@ -26,15 +26,15 @@ weight = 5
 
 # footer menu left
 [[footer_left]]
-name = "Our team"
+name = "Our Team"
 url = "team"
 
 [[footer_left]]
-name = "Our strategy"
+name = "Our Strategy"
 url = "strategy"
 
 [[footer_left]]
-name = "Our approach"
+name = "Our Approach"
 url = "approach"
 
 
