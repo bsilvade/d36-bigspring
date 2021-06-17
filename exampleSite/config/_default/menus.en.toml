@@ -58,9 +58,14 @@ weight = 3
 
 # footer menu right
 [[footer_right]]
-name = "Platforms"
-url = "platforms"
+name = "Technology Scouting"
+url = "technology-scouting"
 weight = 1
+
+[[footer_right]]
+name = "Digital Platforms"
+url = "platforms"
+weight = 2
 
 [[footer_right]]
 name = "Data Science"
