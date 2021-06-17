@@ -42,28 +42,35 @@ url = "approach"
 [[footer_middle]]
 name = "Digital Health"
 url = "digital-health"
+weight = 1
 
 [[footer_middle]]
 name = "Industry 4.0"
 url = "industry4.0"
+weight = 2
 
 [[footer_middle]]
 name = "AgroTech"
 url = "agrotech"
+weight = 3
 
 # footer menu right
 [[footer_right]]
 name = "Platforms"
 url = "platforms"
+weight = 1
 
 [[footer_right]]
 name = "Data Science"
 url = "datascience"
+weight = 2
 
 [[footer_right]]
 name = "DevOps as a Service"
 url = "devops"
+weight = 3
 
 [[footer_right]]
 name = "Partners"
 url = "partners"
+weight = 4
