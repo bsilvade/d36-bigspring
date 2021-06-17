@@ -19,11 +19,6 @@ name = "Technologies & Services"
 url = "technologies"
 weight = 4
 
-[[main]]
-name = "Contact"
-url = "contact"
-weight = 5
-
 # footer menu left
 [[footer_left]]
 name = "About Us"
