@@ -6,7 +6,7 @@ banner:
   content : "We provide Swiss enterprises and SME's with digital solutions across multiple technologies combined with consulting services."
   button:
     enable : true
-    label : "Contact With Us"
+    label : "Contact Us"
     link : "contact"
 
 ##################### Feature ##########################
