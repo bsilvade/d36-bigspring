@@ -21,16 +21,16 @@ weight = 4
 
 # footer menu left
 [[footer_left]]
-name = "About Us"
-url = "#"
+name = "Team"
+url = "team"
 
 [[footer_left]]
-name = "Quick Start"
-url = "#"
+name = "Strategy"
+url = "strategy"
 
 [[footer_left]]
-name = "Pricing"
-url = "pricing"
+name = "Careers"
+url = "careers"
 
 
 # footer menu middle
