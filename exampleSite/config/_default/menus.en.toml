@@ -15,8 +15,8 @@ url = "verticals"
 weight = 2
 
 [[main]]
-name = "Technologies & Services"
-url = "technologies"
+name = "Expertise"
+url = "expertise"
 weight = 3
 
 [[main]]

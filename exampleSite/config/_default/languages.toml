@@ -7,7 +7,7 @@ weight = 1
 ########### footer content ##########
 footer_menu_left = "About Us"
 footer_menu_middle = "Verticals"
-footer_menu_right = "Technologies & Services"
+footer_menu_right = "Expertise"
 footer_content = "We provide Swiss enterprises and SME’s with digital solutions across multiple technologies combined with consulting services."
 # copyright
 copyright = "© 2021 D36.ch Sàrl | All Rights Reserved"
