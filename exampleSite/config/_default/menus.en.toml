@@ -5,23 +5,23 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "Blog"
-url = "blog"
+name = "Insights"
+url = "insights"
+weight = 4
+
+[[main]]
+name = "Verticals"
+url = "verticals"
 weight = 2
 
 [[main]]
-name = "Pricing"
-url = "pricing"
-weight = 3
+name = "Technologies & Services"
+url = "technologies"
+weight = 4
 
 [[main]]
 name = "Contact"
 url = "contact"
-weight = 4
-
-[[main]]
-name = "FAQ"
-url = "faq"
 weight = 5
 
 # footer menu left
