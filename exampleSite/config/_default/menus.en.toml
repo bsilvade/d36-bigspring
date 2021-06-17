@@ -17,7 +17,7 @@ weight = 2
 [[main]]
 name = "Technologies & Services"
 url = "technologies"
-weight = 4
+weight = 3
 
 [[main]]
 name = "Careers"
@@ -26,40 +26,44 @@ weight = 5
 
 # footer menu left
 [[footer_left]]
-name = "About Us"
-url = "about"
+name = "Our team"
+url = "team"
 
 [[footer_left]]
-name = "Our Strategy"
+name = "Our strategy"
 url = "strategy"
 
 [[footer_left]]
-name = "Our Approach"
+name = "Our approach"
 url = "approach"
 
 
 # footer menu middle
 [[footer_middle]]
-name = "Pricing"
-url = "pricing"
+name = "Digital Health"
+url = "digital-health"
 
 [[footer_middle]]
-name = "Platform"
-url = "#"
+name = "Industry 4.0"
+url = "industry4.0"
 
 [[footer_middle]]
-name = "Features"
-url = "#"
+name = "AgroTech"
+url = "agrotech"
 
 # footer menu right
 [[footer_right]]
-name = "Privacy Policy"
-url = "privacy-policy"
+name = "Platforms"
+url = "platforms"
 
 [[footer_right]]
-name = "Terms & Conditions"
-url = "terms-conditions"
+name = "Data Science"
+url = "datascience"
 
 [[footer_right]]
-name = "FAQ"
-url = "faq"
+name = "DevOps as a Service"
+url = "devops"
+
+[[footer_right]]
+name = "Partners"
+url = "partners"

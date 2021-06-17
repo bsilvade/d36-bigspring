@@ -5,9 +5,9 @@ title = "D36.ch"
 contentDir = "content/english" # content/english
 weight = 1
 ########### footer content ##########
-footer_menu_left = "Company"
-footer_menu_middle = "Product"
-footer_menu_right = "Support"
+footer_menu_left = "About us"
+footer_menu_middle = "Verticals"
+footer_menu_right = "Technologies & Services"
 footer_content = "We provide Swiss enterprises and SME’s with digital solutions across multiple technologies combined with consulting services."
 # copyright
 copyright = "© 2021 D36.ch Sàrl | All Rights Reserved"
