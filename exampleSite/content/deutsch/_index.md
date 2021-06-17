@@ -105,7 +105,7 @@ call_to_action:
   enable : true
   title : "Ready to get started?"
   image : "images/cta.svg"
-  content : "How can we help you? Reach us via e-mail or social networks for any question or enquiry. See the options below."
+  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
   button:
     enable : true
     label : "Contact Us"
