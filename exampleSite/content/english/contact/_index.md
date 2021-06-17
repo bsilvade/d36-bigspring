@@ -11,7 +11,7 @@ draft: false
 How can we help you? Reach us via e-mail or social networks for any question or enquiry.
 
 * **Mail: info@d36.ch**
-* **Address: D36.CH Sàrl
-Chemin derrière les Vignes 23d
-1588 Cudrefin
-Switzerland**
+* **Address: D36.CH Sàrl</br>
+</br>Chemin derrière les Vignes 23d
+</br>1588 Cudrefin
+</br>Switzerland**

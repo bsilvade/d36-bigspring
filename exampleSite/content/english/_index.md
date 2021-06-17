@@ -103,9 +103,9 @@ screenshot:
 ##################### Call to action #####################
 call_to_action:
   enable : true
-  title : "Ready to get started?"
+  title : "Ready to talk?"
   image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  content : "How can we help you? Reach us via e-mail or social networks for any question or enquiry."
   button:
     enable : true
     label : "Contact Us"
