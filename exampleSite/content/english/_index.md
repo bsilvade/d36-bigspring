@@ -12,30 +12,30 @@ banner:
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Something You Need To Know"
+  title : "Our Portfolio"
   feature_item:
     # feature item loop
-    - name : "Clean Code"
+    - name : "Technology Scouting"
       icon : "fas fa-code"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Object Oriented"
+    - name : "Build Operate Transfer"
       icon : "fas fa-object-group"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "24h Service"
+    - name : "DevOps as a Service"
       icon : "fas fa-user-clock"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Value For Money"
+    - name : "AI, Machine Learning"
       icon : "fas fa-heart"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Faster Response"
+    - name : "Nearshore and Operation"
       icon : "fas fa-tachometer-alt"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
