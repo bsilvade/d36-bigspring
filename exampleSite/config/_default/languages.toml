@@ -1,7 +1,7 @@
 ############################# English ############################
 [en]
 languageName = "En"
-title = "D36.ch"
+title = "D36.ch - digitally productive"
 contentDir = "content/english" # content/english
 weight = 1
 ########### footer content ##########
