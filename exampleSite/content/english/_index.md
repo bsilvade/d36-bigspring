@@ -35,7 +35,7 @@ feature:
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "AI, Machine Learning"
+    - name : "Data Science, AI & Machine Learning"
       icon : "fas fa-tachometer-alt"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
