@@ -1,6 +1,6 @@
-baseURL = "http://examplesite.org/"
+baseURL = "https://d36.ch/"
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "G-1MSQGC8M1F"
 paginate = "3"
 summaryLength = "15"
 theme = "bigspring"
