@@ -20,7 +20,7 @@ feature:
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Build Operate Transfer"
+    - name : "Build-Operate-Transfer"
       icon : "fas fa-object-group"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
