@@ -40,6 +40,11 @@ name = "Our Strategy"
 url = "strategy"
 weight = 3
 
+[[footer_left]]
+name = "Locations"
+url = "locations"
+weight = 4
+
 # footer menu middle
 [[footer_middle]]
 name = "Digital Health"
