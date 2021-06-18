@@ -73,7 +73,7 @@ service:
         link : "#"
         
     # service item loop
-    - title : "Data Science"
+    - title : "Data Science Expertise"
       images:
       - "images/service-2.png"
       content : "We can help you make more sense of your data through a unique data visualization and integration platform that combined with the latest machine learning and artificial intelligence models can help you achieve your goals."
