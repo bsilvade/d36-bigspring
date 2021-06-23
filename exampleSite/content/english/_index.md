@@ -17,12 +17,12 @@ feature:
     # feature item loop
     - name : "Technology Scouting & Partnership"
       icon : "fas fa-user-clock"
-      content : "Global positioning in the tech ecosystem to identify and negotiate with the right partners."
+      content : "Global positioning in the ecosystem to identify and negotiate with the right partners."
       
     # feature item loop
     - name : "Build-Operate-Transfer"
       icon : "fas fa-object-group"
-      content : "Own value at the end of the engagement."
+      content : "Own the value of the services at the end of the engagement."
       
     # feature item loop
     - name : "DevOps as a Service"
