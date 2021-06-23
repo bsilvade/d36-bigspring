@@ -12,7 +12,7 @@ banner:
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Our Portfolio"
+  title : "Key Activities"
   feature_item:
     # feature item loop
     - name : "Technology Scouting"
@@ -56,7 +56,7 @@ service:
       - "images/service-1.png"
       - "images/service-2.png"
       - "images/service-3.png"
-      content : "At D36.ch we provide a Digital 360 view of potential ways of working and thinking to assist companies transform their business and scale. Combining technologies and consultancy, the right tools and methods can be put to work to achieve the agreed objectives. We are your portal to the next level."
+      content : "At D36.ch we provide a Digital 360 view of potential ways of working and thinking to assist companies transform their business and scale. Combining technologies and consultancy, the right tools and methods can be put to work to achieve the agreed objectives. We are yal to the next level."
       button:
         enable : true
         label : "Check it out"
