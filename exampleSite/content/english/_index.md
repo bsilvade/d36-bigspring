@@ -3,7 +3,7 @@
 banner:
   title : "D36.ch helps you accelerate your digital transformation journey<br>"
   image : "images/banner-art.svg"
-  content : "As a digitally agnostic partner, we strive to solve digital partners with security & quality by ensuring business continuity and scability" #"We provide Swiss enterprises and SME's with digital solutions across multiple technologies combined with consulting services."
+  content : "As a digitally agnostic partner, we strive to solve digital projects with security & quality, assuring business continuity and scability" #"We provide Swiss enterprises and SME's with digital solutions across multiple technologies combined with consulting services."
   button:
     enable : true
     label : "Contact Us"
