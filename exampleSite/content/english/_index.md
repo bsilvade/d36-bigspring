@@ -3,7 +3,7 @@
 banner:
   title : "D36.ch helps you accelerate your digital transformation journey<br>"
   image : "images/banner-art.svg"
-  content : "As a digitally agnostic partner, we strive to solve digital projects with security & quality, assuring business continuity and scability" #"We provide Swiss enterprises and SME's with digital solutions across multiple technologies combined with consulting services."
+  content : "As a digitally agnostic partner we strive to solve digital projects with security & quality, assuring business continuity and scability" #"We provide Swiss enterprises and SME's with digital solutions across multiple technologies combined with consulting services."
   button:
     enable : true
     label : "Contact Us"
@@ -66,7 +66,7 @@ service:
     - title : "Technology Agnostic"
       images:
       - "images/service-1.png"
-      content : "With technology we transform your business   As trusted partners, we strive to provide you with resource efficiency to achieve more business goals in a shorter period of time and effort. This is achieved by combining technology resources and a consultancy layer."
+      content : "With technology we transform your business as trusted partners, we strive to provide you with resource efficiency to achieve more business goals in a shorter period of time and effort. This is achieved by combining technology resources and a consultancy layer."
       button:
         enable : false
         label : "Check it out"
