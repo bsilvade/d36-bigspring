@@ -32,7 +32,7 @@ feature:
     # feature item loop
     - name : "Product Development"
       icon : "fas fa-heart"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "We take you from proof-of-concept to the market."
       
     # feature item loop
     - name : "Data Science, AI & Machine Learning"
