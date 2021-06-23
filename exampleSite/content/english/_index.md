@@ -15,8 +15,8 @@ feature:
   title : "Key Activities"
   feature_item:
     # feature item loop
-    - name : "Technology Scouting and Partership"
-      icon : "fas fa-code"
+    - name : "Technology Scouting & Partership"
+      icon : "fas fa-user-clock"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
@@ -26,7 +26,7 @@ feature:
       
     # feature item loop
     - name : "DevOps as a Service"
-      icon : "fas fa-user-clock"
+      icon : "fas fa-code"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
