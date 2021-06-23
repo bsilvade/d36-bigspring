@@ -17,32 +17,32 @@ feature:
     # feature item loop
     - name : "Technology Scouting & Partnership"
       icon : "fas fa-user-clock"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "Global positioning in the tech ecosystem to identify and negotiate with the right partners."
       
     # feature item loop
     - name : "Build-Operate-Transfer"
       icon : "fas fa-object-group"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "Own value at the end of the engagement."
       
     # feature item loop
     - name : "DevOps as a Service"
       icon : "fas fa-code"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "Benefit from experienced and mature development teams."
       
     # feature item loop
     - name : "Product Development"
       icon : "fas fa-heart"
-      content : "We take you from proof-of-concept to the market"
+      content : "We take you from proof-of-concept to the market."
       
     # feature item loop
     - name : "Data Science, AI & Machine Learning"
       icon : "fas fa-tachometer-alt"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "World-class competence to discover insights in your data."
       
     # feature item loop
     - name : "Nearshore and Operation"
       icon : "fas fa-cloud"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "We ensure business continuity through the product maturity stages."
       
 
 
