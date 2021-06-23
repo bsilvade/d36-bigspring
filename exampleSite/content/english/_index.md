@@ -1,7 +1,7 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "We are a consulting firm focused on strategy, technology, and business transformation.<br>"
+  title : "D36.ch helps you accelerate your digital transformation journey.<br>"
   image : "images/banner-art.svg"
   content : "We provide Swiss enterprises and SME's with digital solutions across multiple technologies combined with consulting services."
   button:
@@ -32,7 +32,7 @@ feature:
     # feature item loop
     - name : "Product Development"
       icon : "fas fa-heart"
-      content : "We take you from proof-of-concept to the market."
+      content : "We take you from proof-of-concept to the market"
       
     # feature item loop
     - name : "Data Science, AI & Machine Learning"
