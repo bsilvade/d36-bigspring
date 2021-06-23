@@ -15,7 +15,7 @@ feature:
   title : "Key Activities"
   feature_item:
     # feature item loop
-    - name : "Technology Scouting & Partership"
+    - name : "Technology Scouting & Partnership"
       icon : "fas fa-user-clock"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
