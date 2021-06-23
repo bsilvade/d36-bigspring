@@ -83,7 +83,7 @@ service:
         link : "#"
         
     # service item loop
-    - title : "Digital Transformation"
+    - title : "Accelerating Digital Transformation"
       images:
       - "images/service-3.png"
       content : "We leverage our global positioning and network to scout world-class technology, combined with a skillful engineering workforce with the ability to execute. We maximize the return of your digital transformation process while ensuring business continuity."
