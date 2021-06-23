@@ -3,7 +3,7 @@
 banner:
   title : "D36.ch helps you accelerate your digital transformation journey<br>"
   image : "images/banner-art.svg"
-  content : "As a digitally agnostic partner we strive to solve digital projects with security & quality, assuring business continuity and scability" #"We provide Swiss enterprises and SME's with digital solutions across multiple technologies combined with consulting services."
+  content : "As a digitally agnostic partner we strive to solve digital projects with security & quality, assuring business continuity and scability." #"We provide Swiss enterprises and SME's with digital solutions across multiple technologies combined with consulting services."
   button:
     enable : true
     label : "Contact Us"
@@ -56,7 +56,8 @@ service:
       - "images/service-1.png"
       - "images/service-2.png"
       - "images/service-3.png"
-      content : "We provide a Digital 360 view of potential ways of working and thinking to assist companies transform their business and scale. Combining technologies and consultancy, the right tools and methods can be put to work to achieve the agreed objectives. We are yal to the next level."
+      content : "We provide Swiss enterprises and SME's in the Healthcare industry a digital 360 landscape of technology, with execution capability to transform their business and scale. Combining technologies and consultancy, the right tools, resources, and methodology we assure the agreed objectives. We accelerate the process and shorten your time-to-market."
+      
       button:
         enable : false
         label : "Check it out"
