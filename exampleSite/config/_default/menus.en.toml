@@ -1,28 +1,28 @@
 # main menu
-[[main]]
-name = "Home"
-url = "/"
-weight = 1
+#[[main]]
+#name = "Home"
+#url = "/"
+#weight = 1
 
-[[main]]
-name = "Insights"
-url = "insights"
-weight = 4
+#[[main]]
+#name = "Insights"
+#url = "insights"
+#weight = 4
 
-[[main]]
-name = "Verticals"
-url = "verticals"
-weight = 2
+#[[main]]
+#name = "Verticals"
+#url = "verticals"
+#weight = 2
 
-[[main]]
-name = "Expertise"
-url = "expertise"
-weight = 3
+#[[main]]
+#name = "Expertise"
+#url = "expertise"
+#weight = 3
 
-[[main]]
-name = "Careers"
-url = "careers"
-weight = 5
+#[[main]]
+#name = "Careers"
+#url = "careers"
+#weight = 5
 
 # footer menu left
 [[footer_left]]
