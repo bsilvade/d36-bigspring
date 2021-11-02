@@ -2,7 +2,7 @@
 ####################### Banner #########################
 banner:
   title : "Healthcare Solutions for the Digital Age<br>"
-  image : "images/banner-art.svg"
+  image : ""
   content : "Guiding your digital transformation journey in the healthcare technology world." #"We provide Swiss enterprises and SME's with digital solutions across multiple technologies combined with consulting services."
   button:
     enable : true
@@ -10,39 +10,39 @@ banner:
     link : "https://d36.intellias.healthcare/"
 
 ##################### Feature ##########################
-feature:
-  enable : true
-  title : "Key Activities"
-  feature_item:
-    # feature item loop
-    - name : "Technology Scouting & Partnership"
-      icon : "fas fa-user-clock"
-      content : "Global positioning in the ecosystem to identify and negotiate with the right partners."
+#feature:
+#  enable : true
+#  title : "Key Activities"
+#  feature_item:
+#    # feature item loop
+#    - name : "Technology Scouting & Partnership"
+#      icon : "fas fa-user-clock"
+#      content : "Global positioning in the ecosystem to identify and negotiate with the right partners."
       
     # feature item loop
-    - name : "Build-Operate-Transfer"
-      icon : "fas fa-object-group"
-      content : "Own the value of the services at the end of the engagement."
+#    - name : "Build-Operate-Transfer"
+#      icon : "fas fa-object-group"
+#      content : "Own the value of the services at the end of the engagement."
       
     # feature item loop
-    - name : "DevOps as a Service"
-      icon : "fas fa-code"
-      content : "Benefit from experienced and mature development teams."
+#    - name : "DevOps as a Service"
+#      icon : "fas fa-code"
+#      content : "Benefit from experienced and mature development teams."
       
     # feature item loop
-    - name : "Product Development"
-      icon : "fas fa-heart"
-      content : "We take you from proof-of-concept to the market."
+#    - name : "Product Development"
+#      icon : "fas fa-heart"
+#      content : "We take you from proof-of-concept to the market."
       
     # feature item loop
-    - name : "Data Science, AI & Machine Learning"
-      icon : "fas fa-tachometer-alt"
-      content : "World-class competence to discover insights in your data."
+#    - name : "Data Science, AI & Machine Learning"
+#      icon : "fas fa-tachometer-alt"
+#      content : "World-class competence to discover insights in your data."
       
     # feature item loop
-    - name : "Nearshore and Operation"
-      icon : "fas fa-cloud"
-      content : "We ensure business continuity through the product maturity stages."
+#    - name : "Nearshore and Operation"
+#      icon : "fas fa-cloud"
+#      content : "We ensure business continuity through the product maturity stages."
       
 
 
@@ -95,7 +95,7 @@ service:
         
 ################### Screenshot ########################
 screenshot:
-  enable : true
+  enable : false
   title : "Our Process"
   image : "images/screenshot.svg"
 
@@ -103,12 +103,12 @@ screenshot:
 
 ##################### Call to action #####################
 call_to_action:
-  enable : true
+  enable : false
   title : "Ready to talk?"
   image : "images/cta.svg"
   content : "How can we help you? Reach us via e-mail or social networks for any question or enquiry."
   button:
-    enable : true
+    enable : false
     label : "Contact Us"
     link : "contact"
 ---
