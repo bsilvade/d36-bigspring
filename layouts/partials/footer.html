@@ -13,7 +13,7 @@
       </div>
       <div class="col-md-3 col-sm-6 mb-5">
         {{ if site.Menus.footer_middle }}
-        <div class="h4 mb-4">{{ site.Params.footer_menu_middle }}</div>
+        <div class="h4 mb-4" style="color: #73fcca;">{{ site.Params.footer_menu_middle }}</div>
         <ul class="list-unstyled footer-list" style="color: #fff;">
           {{ range site.Menus.footer_middle }}
           <li><a href="{{ .URL }}" title="{{ .Name }}" style="color: #fff;">{{ .Name }}</a></li>
@@ -23,7 +23,7 @@
       </div>
       <div class="col-md-3 col-sm-6 mb-5">
         {{ if site.Menus.footer_right }}
-        <div class="h4 mb-4">{{ site.Params.footer_menu_right }}</div>
+        <div class="h4 mb-4" style="color: #73fcca;">{{ site.Params.footer_menu_right }}</div>
         <ul class="list-unstyled footer-list">
           {{ range site.Menus.footer_right }}
           <li><a href="{{ .URL | relLangURL }}" title="{{ .Name }}">{{ .Name }}</a></li>
