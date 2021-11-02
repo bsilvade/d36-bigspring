@@ -3,11 +3,11 @@
 banner:
   title : "Healthcare Solutions for the Digital Age<br>"
   image : "images/banner-art.svg"
-  content : "As a technology agnostic partner we strive to solve digital projects with security & quality, assuring business continuity and scability." #"We provide Swiss enterprises and SME's with digital solutions across multiple technologies combined with consulting services."
+  content : "Guiding your digital transformation journey in the healthcare technology world." #"We provide Swiss enterprises and SME's with digital solutions across multiple technologies combined with consulting services."
   button:
     enable : true
-    label : "Contact Us"
-    link : "contact"
+    label : "D36.ch exclusive partnership with engineering powerhouse Intellias"
+    link : "https://d36.intellias.healthcare/"
 
 ##################### Feature ##########################
 feature:
