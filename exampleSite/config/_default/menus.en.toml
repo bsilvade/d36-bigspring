@@ -30,64 +30,64 @@ name = "Our Team"
 url = "team"
 weight = 1
 
-[[footer_left]]
-name = "Our Culture"
-url = "culture"
-weight = 2
+#[[footer_left]]
+#name = "Our Culture"
+#url = "culture"
+#weight = 2
 
-[[footer_left]]
-name = "Our Strategy"
-url = "strategy"
-weight = 3
+#[[footer_left]]
+#name = "Our Strategy"
+#url = "strategy"
+#weight = 3
 
-[[footer_left]]
-name = "Locations"
-url = "locations"
-weight = 4
+#[[footer_left]]
+#name = "Locations"
+#url = "locations"
+#weight = 4
 
-[[footer_left]]
-name = "Careers"
-url = "careers"
-weight = 5
+#[[footer_left]]
+#name = "Careers"
+#url = "careers"
+#weight = 5
 
 # footer menu middle
-[[footer_middle]]
-name = "Digital Health"
-url = "digital-health"
-weight = 1
+#[[footer_middle]]
+#name = "Digital Health"
+#url = "digital-health"
+#weight = 1
 
-[[footer_middle]]
-name = "Industry 4.0"
-url = "industry4.0"
-weight = 2
+#[[footer_middle]]
+#name = "Industry 4.0"
+#url = "industry4.0"
+#weight = 2
 
-[[footer_middle]]
-name = "AgroTech"
-url = "agrotech"
-weight = 3
+#[[footer_middle]]
+#name = "AgroTech"
+#url = "agrotech"
+#weight = 3
 
 # footer menu right
-[[footer_right]]
-name = "Technology Scouting"
-url = "technology-scouting"
-weight = 1
+#[[footer_right]]
+#name = "Technology Scouting"
+#url = "technology-scouting"
+#weight = 1
+
+#[[footer_right]]
+#name = "Digital Platforms"
+#url = "platforms"
+#weight = 2
+
+#[[footer_right]]
+#name = "Data Science"
+#url = "datascience"
+#weight = 2
+
+#[[footer_right]]
+#name = "DevOps as a Service"
+#url = "devops"
+#weight = 3
 
 [[footer_right]]
-name = "Digital Platforms"
-url = "platforms"
-weight = 2
-
-[[footer_right]]
-name = "Data Science"
-url = "datascience"
-weight = 2
-
-[[footer_right]]
-name = "DevOps as a Service"
-url = "devops"
-weight = 3
-
-[[footer_right]]
-name = "Partners"
-url = "partners"
-weight = 4
+#name = "Partners"
+#url = "partners"
+#weight = 4
