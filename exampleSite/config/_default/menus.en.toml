@@ -25,9 +25,9 @@
 #weight = 5
 
 # footer menu left
-[[footer_left]]
-name = "D36.CH Sàrl</br>Chemin derrière les Vignes 23d</br>1588 Cudrefin</br>Switzerland"
-url = ""
+#[[footer_left]]
+#name = "D36.CH Sàrl</br>Chemin derrière les Vignes 23d</br>1588 Cudrefin</br>Switzerland"
+#url = ""
 #weight = 1
 
 #[[footer_left]]
@@ -51,10 +51,10 @@ url = ""
 #weight = 5
 
 # footer menu middle
-[[footer_middle]]
-name = "info@d36.ch"
-url = "mailto:info@d36.ch"
-weight = 1
+#[[footer_middle]]
+#name = "info@d36.ch"
+#url = "mailto:info@d36.ch"
+#weight = 1
 
 #[[footer_middle]]
 #name = "Industry 4.0"
