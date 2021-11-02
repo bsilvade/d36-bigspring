@@ -25,10 +25,10 @@
 #weight = 5
 
 # footer menu left
-[[footer_left]]
-name = "Our TTeam"
-url = "team"
-weight = 1
+#[[footer_left]]
+#name = "Our Team"
+#url = "team"
+#weight = 1
 
 #[[footer_left]]
 #name = "Our Culture"
