@@ -28,16 +28,19 @@
 [[footer_left]]
 name = "D36.CH Sàrl"
 #url = ""
-#weight = 1
+weight = 1
 
 [[footer_left]]
 name = "Chemin derrière les Vignes 23d"
+weight = 2
 
 [[footer_left]]
 name = "1588 Cudrefin"
+weight = 3
 
 [[footer_left]]
 name = "Switzerland"
+weight = 4
 
 #[[footer_left]]
 #name = "Our Culture"
