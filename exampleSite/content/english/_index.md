@@ -7,7 +7,7 @@ banner:
   button:
     enable : true
     label : "Contact Us"
-    link : "https://d36.intellias.healthcare/#contact-us/"
+    link : "https://d36.intellias.healthcare/#contact-us"
 
 ##################### Feature ##########################
 feature:
