@@ -1,7 +1,7 @@
 #################### default parameters ################################
 logo = "images/d36-white.png"
 logowhite = "images/d36-white.png"
-logo_width = "300px"
+logo_width = "200px"
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
 author = "Themefisher"
