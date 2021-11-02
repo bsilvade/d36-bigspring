@@ -26,14 +26,18 @@
 
 # footer menu left
 [[footer_left]]
-name = """
-D36.CH Sàrl\
-Chemin derrière les Vignes 23d\
-1588 Cudrefin\
-Switzerland
-"""
+name = "D36.CH Sàrl"
 #url = ""
 #weight = 1
+
+[[footer_left]]
+name = "Chemin derrière les Vignes 23d"
+
+[[footer_left]]
+name = "1588 Cudrefin"
+
+[[footer_left]]
+name = "Switzerland"
 
 #[[footer_left]]
 #name = "Our Culture"
