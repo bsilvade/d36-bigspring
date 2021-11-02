@@ -1,5 +1,5 @@
 #################### default parameters ################################
-logo = "images/d36-logo.png"
+logo = "images/d36-white.png"
 logowhite = "images/d36-white.png"
 logo_width = "300px"
 # OpenGraph / Twitter Card metadata
