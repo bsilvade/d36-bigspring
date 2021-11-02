@@ -1,7 +1,7 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "D36.ch helps you accelerate your digital transformation journey<br>"
+  title : "Healthcare Solutions for the Digital Age<br>"
   image : "images/banner-art.svg"
   content : "As a technology agnostic partner we strive to solve digital projects with security & quality, assuring business continuity and scability." #"We provide Swiss enterprises and SME's with digital solutions across multiple technologies combined with consulting services."
   button:
