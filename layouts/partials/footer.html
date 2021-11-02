@@ -34,7 +34,7 @@
       <div class="col-md-3 col-sm-6 mb-5">
         <a class="d-block h3 mb-3" href="{{ site.BaseURL | absLangURL}}">
           {{ with site.Params.logowhite}}
-          <img width="150px" class="img-fluid" src="{{ . | relURL }}" alt="{{ site.Title }}">
+          <img width="100px" class="img-fluid" src="{{ . | relURL }}" alt="{{ site.Title }}">
           {{ else }}{{site.Title}}{{end}}
         </a>
         <p class="mb-4" style="color: #fff;">{{ site.Params.footer_content | markdownify }}</p>
