@@ -26,7 +26,10 @@
 
 # footer menu left
 [[footer_left]]
-name = "D36.CH Sàrl"
+name = "D36.CH Sàrl
+Chemin derrière les Vignes 23d
+1588 Cudrefin
+Switzerland"
 url = "team"
 #weight = 1
 
@@ -52,8 +55,8 @@ url = "team"
 
 # footer menu middle
 [[footer_middle]]
-name = "Digital Health"
-url = "digital-health"
+name = "info@d36.ch"
+url = "mailto:info@d36.ch"
 weight = 1
 
 #[[footer_middle]]
