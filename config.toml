@@ -10,7 +10,7 @@
 [params.variables]
 primary_color = "#0AA8A7"
 text_color = "#696969"
-text_color_dark = "#73fcca"
+text_color_dark = "#000"
 body_color = "#fff"
 border_color = "#ECECEC"
 black = "#000"
