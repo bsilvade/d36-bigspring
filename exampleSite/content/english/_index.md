@@ -3,7 +3,7 @@
 banner:
   title : "Healthcare Solutions for the Digital Age<br>"
   image : ""
-  content : "Guiding your digital transformation journey in the healthcare technology world." #"We provide Swiss enterprises and SME's with digital solutions across multiple technologies combined with consulting services."
+  content : "D36.ch is an innovative startup with a strong engineering DNA that empowers companies in healthcare and life sciences sectors throughout their digital transformation journeys. We offer a combination of products and services building a thriving digital healthcare technology landscape, one fueled by advanced engineering and development services of our exclusive partner Intellias." #"We provide Swiss enterprises and SME's with digital solutions across multiple technologies combined with consulting services."
   button:
     enable : true
     label : "Contact Us"
