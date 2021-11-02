@@ -26,7 +26,9 @@
 
 # footer menu left
 [[footer_left]]
-name = "D36.CH Sàrl<br/>Chemin derrière les Vignes 23d\n1588 Cudrefin\nSwitzerland"
+name = """
+D36.CH Sàrl<br/>Chemin derrière les Vignes 23d\n1588 Cudrefin\nSwitzerland
+"""
 #url = ""
 #weight = 1
 
