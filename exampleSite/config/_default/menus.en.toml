@@ -80,9 +80,9 @@ url = "mailto:info@d36.ch"
 
 # footer menu right
 [[footer_right]]
-name = "D36.ch + Intellias"
+name = "D36.ch & Intellias"
 url = "https://d36.intellias.healthcare"
-#weight = 1
+weight = 1
 
 #[[footer_right]]
 #name = "Digital Platforms"
