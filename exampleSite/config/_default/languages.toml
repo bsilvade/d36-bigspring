@@ -7,7 +7,7 @@ weight = 1
 ########### footer content ##########
 footer_menu_left = "ADDRESS"
 footer_menu_middle = "CONTACT US"
-#footer_menu_right = "Expertise"
+footer_menu_right = "Services"
 footer_content = "We provide Swiss enterprises and SME’s with digital solutions across multiple technologies combined with consulting services."
 # copyright
 copyright = "2021 D36.ch Sàrl | [Privacy Policy](https://d36.intellias.healthcare/privacy-policy/) | [Cookie Policy](https://d36.intellias.healthcare/cookie-policy/)"

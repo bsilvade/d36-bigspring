@@ -79,9 +79,9 @@ url = "mailto:info@d36.ch"
 #weight = 3
 
 # footer menu right
-#[[footer_right]]
-#name = "Technology Scouting"
-#url = "technology-scouting"
+[[footer_right]]
+name = "D36.ch + Intellias"
+url = "https://d36.intellias.healthcare"
 #weight = 1
 
 #[[footer_right]]
