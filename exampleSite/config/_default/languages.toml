@@ -5,8 +5,8 @@ title = "D36.ch - Tech Solutions for Digital Transformation in Healthcare"
 contentDir = "content/english" # content/english
 weight = 1
 ########### footer content ##########
-footer_menu_left = "Address"
-footer_menu_middle = "Contact Us"
+footer_menu_left = "ADDRESS"
+footer_menu_middle = "CONTACT US"
 #footer_menu_right = "Expertise"
 footer_content = "We provide Swiss enterprises and SME’s with digital solutions across multiple technologies combined with consulting services."
 # copyright
