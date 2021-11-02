@@ -10,45 +10,45 @@ banner:
     link : "https://d36.intellias.healthcare/"
 
 ##################### Feature ##########################
-#feature:
-#  enable : true
-#  title : "Key Activities"
-#  feature_item:
-#    # feature item loop
-#    - name : "Technology Scouting & Partnership"
-#      icon : "fas fa-user-clock"
-#      content : "Global positioning in the ecosystem to identify and negotiate with the right partners."
+feature:
+  enable : false
+  title : "Key Activities"
+  feature_item:
+    # feature item loop
+    - name : "Technology Scouting & Partnership"
+      icon : "fas fa-user-clock"
+      content : "Global positioning in the ecosystem to identify and negotiate with the right partners."
       
     # feature item loop
-#    - name : "Build-Operate-Transfer"
-#      icon : "fas fa-object-group"
-#      content : "Own the value of the services at the end of the engagement."
+    - name : "Build-Operate-Transfer"
+      icon : "fas fa-object-group"
+      content : "Own the value of the services at the end of the engagement."
       
     # feature item loop
-#    - name : "DevOps as a Service"
-#      icon : "fas fa-code"
-#      content : "Benefit from experienced and mature development teams."
+    - name : "DevOps as a Service"
+      icon : "fas fa-code"
+      content : "Benefit from experienced and mature development teams."
       
     # feature item loop
-#    - name : "Product Development"
-#      icon : "fas fa-heart"
-#      content : "We take you from proof-of-concept to the market."
+    - name : "Product Development"
+      icon : "fas fa-heart"
+      content : "We take you from proof-of-concept to the market."
       
     # feature item loop
-#    - name : "Data Science, AI & Machine Learning"
-#      icon : "fas fa-tachometer-alt"
-#      content : "World-class competence to discover insights in your data."
+    - name : "Data Science, AI & Machine Learning"
+      icon : "fas fa-tachometer-alt"
+      content : "World-class competence to discover insights in your data."
       
     # feature item loop
-#    - name : "Nearshore and Operation"
-#      icon : "fas fa-cloud"
-#      content : "We ensure business continuity through the product maturity stages."
+    - name : "Nearshore and Operation"
+      icon : "fas fa-cloud"
+      content : "We ensure business continuity through the product maturity stages."
       
 
 
 ######################### Service #####################
 service:
-  enable : true
+  enable : false
   service_item:
     # service item loop
     - title : "What We Do"
