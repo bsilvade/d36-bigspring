@@ -25,7 +25,7 @@
 #weight = 5
 
 # footer menu left
-#[[footer_left]]
+[[footer_left]]
 name = "D36.CH Sàrl"
 url = "team"
 #weight = 1
