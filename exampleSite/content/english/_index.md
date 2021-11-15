@@ -17,17 +17,20 @@ feature:
     # feature item loop
     - name : "Intellias"
       icon : "fas fa-user-clock"
-      content : ""
+      logo :  "/images/partners/"
+      content : "/images/partners/intellias.png"
       
     # feature item loop
     - name : "Swiss Medtech"
       icon : "fas fa-object-group"
-      content : ""
+      logo : 
+      content : "/images/partners/swissmedtech.svg"
       
     # feature item loop
     - name : "Swiss Biotech Association"
       icon : "fas fa-code"
-      content : ""
+      logo : 
+      content : "/images/partners/swissbiotech.jpeg"
       
       
 
