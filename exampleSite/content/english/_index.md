@@ -12,7 +12,7 @@ banner:
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Key Activities"
+  title : "Partners"
   feature_item:
     # feature item loop
     - name : "Technology Scouting & Partnership"
