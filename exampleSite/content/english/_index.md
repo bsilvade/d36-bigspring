@@ -27,7 +27,7 @@ feature:
     # feature item loop
     - name : "Swiss Biotech Association"
       icon : "fas fa-code"
-      content : "Benefit from experienced and mature development teams."
+      content : ""
       
       
 
