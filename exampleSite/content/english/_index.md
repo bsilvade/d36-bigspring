@@ -11,7 +11,7 @@ banner:
 
 ##################### Feature ##########################
 feature:
-  enable : false
+  enable : true
   title : "Key Activities"
   feature_item:
     # feature item loop
@@ -48,7 +48,7 @@ feature:
 
 ######################### Service #####################
 service:
-  enable : true
+  enable : false
   service_item:
     # service item loop
     - title : "What We Do"
