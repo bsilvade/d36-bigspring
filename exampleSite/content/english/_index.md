@@ -48,7 +48,7 @@ feature:
 
 ######################### Service #####################
 service:
-  enable : false
+  enable : true
   service_item:
     # service item loop
     - title : "What We Do"
