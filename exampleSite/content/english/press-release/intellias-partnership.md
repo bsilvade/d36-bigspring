@@ -10,7 +10,7 @@ description: ""
 # post draft
 draft: false
 ---
-<div style="color:#696969">
+
 December 07, 2021
 </br>  
 #### The business alliance between Intellias and D36.ch will speed up the digital transformation of the healthcare landscape in Switzerland
@@ -34,4 +34,3 @@ Today, we observe a great market potential for the technology-enabled transforma
 
 ### About Intellias
 [Intellias](www.intellias.com) is a global technology services provider partnering with innovative enterprises and progressive companies to help them accelerate their pace of sustainable digitization. Intellias empowers businesses operating in Europe, the US, the MENA region, and the APAC region to embrace innovation at scale. Over 2000 Intellias experts located in Ukraine, Germany, Poland, the United States, and the United Arab Emirates deliver competence and expertise in various domains. The company has been featured in the Global Outsourcing 100 list by IAOP, recognized by Inc. 5000, acknowledged in the GSA UK Awards, named the winner of a Silver Stevie Award in the 17th Annual International Business Awards, and ranked the #1 employer among Ukrainian IT service providers by Forbes. With nearly two decades of experience, Intellias helps both industry leaders and startups deploy innovative customer-facing solutions, build award-winning software, and modernize technical infrastructure.
-</div>
