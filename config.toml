@@ -9,13 +9,13 @@
 # customize your color and font from here.
 [params.variables]
 primary_color = "#73fcca"
-text_color = "#fff"
-text_color_dark = "#fff"
+text_color = "#696969"
+text_color_dark = "#696969"
 body_color = "#696969"
 border_color = "#ECECEC"
 black = "#000"
-white = "#fff"
-light = "#fff"
+white = "#696969"
+light = "#696969"
 
 # font variable
 # Give your font name from google font. add font weight using ":wght@" and separate by ";"
