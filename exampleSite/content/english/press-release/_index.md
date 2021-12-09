@@ -5,5 +5,3 @@ subtitle: ""
 description: "This is meta description"
 draft: false
 ---
-
-All press release
