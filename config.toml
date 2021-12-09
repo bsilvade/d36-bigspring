@@ -14,7 +14,7 @@ text_color_dark = "#696969"
 body_color = "#696969"
 border_color = "#ECECEC"
 black = "#000"
-white = "#696969"
+white = "#fff"
 light = "#fff"
 
 # font variable
