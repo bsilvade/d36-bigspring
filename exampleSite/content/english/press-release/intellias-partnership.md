@@ -13,6 +13,13 @@ draft: false
 
 December 07, 2021
 </br>  
+
+<style>
+    h1, h2, h3
+    {
+        color: #696969 !important;
+    }
+</style>
 #### The business alliance between Intellias and D36.ch will speed up the digital transformation of the healthcare landscape in Switzerland
 
 In November 2021, [Intellias](www.intellias.com), a technology partner of Fortune 500 companies and top-tier organizations, and [D36.ch](www.d36.ch), an innovative Swiss healthcare startup, announced their strategic partnership. The companies are joining efforts to build a bridge between the Swiss digital health market and world-class IT services to reinforce customers’ digital strength by combining 360-degree domain expertise with state-of-the-art software engineering solutions.
