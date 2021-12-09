@@ -10,8 +10,9 @@ description: ""
 # post draft
 draft: false
 ---
-
-December 07, 2021  
+<div style="color:#696969">
+December 07, 2021
+</div>
 </br>  
 #### The business alliance between Intellias and D36.ch will speed up the digital transformation of the healthcare landscape in Switzerland
 
