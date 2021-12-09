@@ -15,7 +15,7 @@ December 07, 2021
 </br>  
 
 <style>
-    h1, h2, h3
+    h2, h3, h4
     {
         color: #696969 !important;
     }
