@@ -27,13 +27,13 @@ In November 2021, [Intellias](www.intellias.com), a technology partner of Fortun
 As a trusted digital technology enabler, Intellias will rely on its experience working with a wide range of organizations in the healthcare sector to empower D36.ch in guiding the digital transformation journeys of healthcare businesses and medical institutions in Switzerland, including hospitals and clinics; pharmaceutical, BioTech, MedTech, and insurance companies; as well as promising startups.
 
 > Right from the start, Intellias impressed us with their speed, quality, and professionalism in everything they do. Their vast portfolio of software engineering services along with an impressive track record of multiple industries they serve gave us confidence that we’ve selected the right technology partner.
-### Bruno Sousa, CTO and co-founder of D36.ch
+**Bruno Sousa, CTO and co-founder of D36.ch**
 
 
 The synergy between Intellias and D36.ch will help healthcare businesses challenge the digital status quo  of the vital yet fairly traditional medical industry and innovate the Swiss medical landscape by bringing new digital solutions to the market.
 
 > Today, we observe a great market potential for the technology-enabled transformation of the healthcare industry. Intellias is excited to team up with D36.ch to foster customer experiences across the entire digital health domain. Through our partnership, we will bring many opportunities that would unlock the value of innovation across the rapidly evolving MedTech and BioTech sectors.
-### Vitaly Sedler, CEO and co-founder of Intellias
+**Vitaly Sedler, CEO and co-founder of Intellias**
 
 The commitment of Intellias and D36.ch to long-lasting cooperation will open new business opportunities for enterprises and organizations operating in the healthcare domain. The deep understanding of the local healthcare landscape and agile startup spirit of D36.ch coupled with the wide assortment of software engineering services offered by Intellias will translate into accelerated digital transformation processes and new revenue streams for medical companies and healthcare providers.
 
