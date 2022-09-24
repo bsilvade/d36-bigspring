@@ -7,7 +7,7 @@ banner:
   button:
     enable : true
     label : "Contact Us"
-    link : "https://d36.intellias.healthcare/#contact-us"
+    link : "mailto:info@d36.ch"
 
 ##################### Feature ##########################
 feature:
